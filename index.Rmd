@@ -28,7 +28,3 @@ knit        : slidify::knit2slides
  --- .middle 
 
  Slidify is Awesome
-
-
-1. SIP
-
