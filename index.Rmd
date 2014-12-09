@@ -21,10 +21,10 @@ knit        : slidify::knit2slides
 
 ## SIP
 
- --- #dillinger
+---
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
 
- --- .middle 
+--- 
 
  Slidify is Awesome
