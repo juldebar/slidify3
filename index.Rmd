@@ -1,8 +1,8 @@
 ---
-title       : SIP
-subtitle    : sip
-author      : juldebar yes
-job         : IR
+title       : 
+subtitle    : 
+author      : 
+job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -19,12 +19,8 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## SIP
+## Slide 2
 
- --- #dillinger
 
- <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
 
- --- .middle 
 
- Slidify is Awesome
