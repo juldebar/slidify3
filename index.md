@@ -1,7 +1,7 @@
 ---
 title       : SIP
 subtitle    : sip
-author      : juldebar
+author      : juldebar yes
 job         : IR
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
