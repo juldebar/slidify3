@@ -1,6 +1,6 @@
 ---
-title       : SIP
-subtitle    : sip
+title       : Slnthetic Indicators Pannem
+subtitle    : SIP
 author      : juldebar yes
 job         : IR
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -17,11 +17,14 @@ knit        : slidify::knit2slides
 2. Write using R Markdown
 3. Use an empty line followed by three dashes to separate slides!
 
---- 
-
+--- .class #id 
 
 ## SIP
-1. toto
 
+ --- #dillinger
 
+ <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
 
+ --- .middle 
+
+ Slidify is Awesome
