@@ -1,8 +1,8 @@
 ---
-title       : 
-subtitle    : 
-author      : 
-job         : 
+title       : SIP
+subtitle    : sip
+author      : juldebar yes
+job         : IR
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -19,8 +19,7 @@ knit        : slidify::knit2slides
 
 --- .class #id 
 
-## Slide 2
-
-
+## SIP
+1. Edit YAML front matter
 
 
