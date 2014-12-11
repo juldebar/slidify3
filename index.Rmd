@@ -59,9 +59,6 @@ knit        : slidify::knit2slides
 
 ## Montreal by Night Time
 
---- #dillinger
-
- <iframe src = 'http://dillinger.io' height='600px'></iframe>
 
 --- .middle 
 
