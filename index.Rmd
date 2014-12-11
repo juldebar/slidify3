@@ -44,14 +44,14 @@ knit        : slidify::knit2slides
 --- 
 ## Other indicators
 
-1. StackedArea for the catdches of (Tuna) Fisheries
+2. StackedArea for the catdches of (Tuna) Fisheries
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
  
 --- 
 ## Other OTHER indicators
 
-2. timeSerie for the catdches of (Tuna) Fisheries
+3. timeSerie for the catdches of (Tuna) Fisheries
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_albacares_NVD3bis.html' height='600px'></iframe>
   
