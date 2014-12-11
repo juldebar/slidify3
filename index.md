@@ -45,7 +45,7 @@ knit        : slidify::knit2slides
  
 --- #montreal bg:url(http://goo.gl/cF6W2)
 
- ## Montreal by Night Time
+## Montreal by Night Time
 
 --- #dillinger
 
