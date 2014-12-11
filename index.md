@@ -42,4 +42,15 @@ knit        : slidify::knit2slides
 1. StackedArea for the Tuna
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
+ 
+--- #montreal bg:url(http://goo.gl/cF6W2)
 
+ ## Montreal by Night Time
+
+--- #dillinger
+
+ <iframe src = 'http://dillinger.io' height='600px'></iframe>
+
+--- .middle 
+
+ Slidify is Awesome
