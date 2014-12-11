@@ -48,7 +48,7 @@ knit        : slidify::knit2slides
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
  
- --- 
+--- 
 ## Other indicators
 
 1. timeSerie for the catdches of (Tuna) Fisheries
