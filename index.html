@@ -4,7 +4,7 @@
   <title>Synthetic Indicators Pannel</title>
   <meta charset="utf-8">
   <meta name="description" content="Synthetic Indicators Pannel">
-  <meta name="author" content="Julien Barde">
+  <meta name="author" content="MACROES project">
   <meta name="generator" content="slidify" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -13,7 +13,8 @@
     media="only screen and (max-device-width: 480px)" >
   <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
   <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
-  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/bootstrap/css/bootstrap.css"></link>
+<link rel=stylesheet href="./assets/css/ribbons.css"></link>
 
   
   <!-- Grab CDN jQuery, fall back to local if offline -->
@@ -34,7 +35,7 @@
   <hgroup class="auto-fadein">
     <h1>Synthetic Indicators Pannel</h1>
     <h2>SIP</h2>
-    <p>Julien Barde<br/>IR</p>
+    <p>MACROES project<br/>IRD</p>
   </hgroup>
   <article></article>  
 </slide>
@@ -43,13 +44,13 @@
     <!-- SLIDES -->
     <slide class="" id="slide-1" style="background:;">
   <hgroup>
-    <h2>Read-And-Delete</h2>
+    <h2>SIP overview</h2>
   </hgroup>
   <article data-timings="">
     <ol>
-<li>Edit YAML front matter</li>
-<li>Write using R Markdown</li>
-<li>Use an empty line followed by three dashes to separate slides!</li>
+<li>A set of indicators for two areas</li>
+<li>Time Series of indicators</li>
+<li>Radar Plots from 1890 to 2100</li>
 </ol>
 
   </article>
@@ -94,7 +95,7 @@
     <ol>
 <li><p>StackedArea for the Tuna</p>
 
-<iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe></li>
+<iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe></li>
 </ol>
 
   </article>
@@ -107,7 +108,7 @@
     <ul>
       <li>
       <a href="#" target="_self" rel='tooltip' 
-        data-slide=1 title='Read-And-Delete'>
+        data-slide=1 title='SIP overview'>
          1
       </a>
     </li>
@@ -138,7 +139,15 @@
   <![endif]-->
 </body>
   <!-- Load Javascripts for Widgets -->
-  
+  <script src="libraries/widgets/bootstrap/js/bootstrap.min.js"></script>
+<script src="libraries/widgets/bootstrap/js/bootbox.min.js"></script>
+
+  <script>  
+  $(function (){ 
+    $("#example").popover(); 
+    $("[rel='tooltip']").tooltip(); 
+  });  
+  </script>  
   <!-- LOAD HIGHLIGHTER JS FILES -->
   <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>

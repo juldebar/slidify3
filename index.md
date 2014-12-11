@@ -1,21 +1,21 @@
 ---
 title       : Synthetic Indicators Pannel
 subtitle    : SIP
-author      : Julien Barde
-job         : IR
+author      : MACROES project
+job         : IRD
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : bootstrap            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Read-And-Delete
+## SIP overview
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+1. A set of indicators for two areas
+2. Time Series of indicators
+3. Radar Plots from 1890 to 2100
 
 ---
 
@@ -41,5 +41,5 @@ knit        : slidify::knit2slides
 
 1. StackedArea for the Tuna
 
- <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
+ <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
 
