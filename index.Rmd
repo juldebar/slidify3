@@ -4,18 +4,16 @@ subtitle    : SIP
 author      : MACROES project (2010-2014)
 date: December 25, 2014
 job         : IRD
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets    : [bootstrap, quiz]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
----
-title: "Habits"
-output:
-  html_document:
-    toc: true
-    toc_depth: 2
 ---
 
 ## SIP overview
