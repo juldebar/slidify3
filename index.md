@@ -1,6 +1,6 @@
 ---
 title       : Synthetic Indicators Pannel
-subtitle    : SIP
+subtitle    : SIPs
 author      : MACROES project (2010-2014)
 date: December 25, 2014
 job         : IRD
