@@ -39,9 +39,18 @@ knit        : slidify::knit2slides
 --- 
 ## Other indicators
 
-1. StackedArea for the Tuna
+1. StackedArea for the catdches of (Tuna) Fisheries
 
  <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/cdn/I1_Thunnus_alalunga_Rickshaw.html' height='600px'></iframe>
+ 
+ --- 
+## Other indicators
+
+1. timeSerie for the catdches of (Tuna) Fisheries
+
+ <iframe src = 'http://mdst-macroes.ird.fr/tmp/SpeciesByOcean/default/I1_Thunnus_albacares_NVD3bis.html' height='600px'></iframe>
+ 
+ 
  
 --- #montreal bg:url(http://goo.gl/cF6W2)
 
